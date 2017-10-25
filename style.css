@@ -1,0 +1,85 @@
+
+/**
+ * Style Sheet Homework Assignment 1 - Easy version
+ **/
+ * {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px
+  line-height: 32px;
+  background: #666;
+  width: 960px;
+}
+header {
+  padding: 20px;
+  margin-bottom: 10px;
+  color: #777;
+  background: #ebebeb;
+}
+nav {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #777;
+  background: #ebebeb;
+}
+section {
+  float: left;
+  width: 495px;
+  height: 330px;
+  line-height: 24px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #777;
+  background: #ebebeb;
+}
+
+#article{
+  float: left;
+  padding: 10px;
+  margin-top: 30px;
+  line-height: 24px;
+  width: 465px;
+  color: #ebebeb;
+  background: #666;
+}
+
+#head {
+  padding: 5px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 445px;
+  color: #777;
+  background: #ebebeb;
+}
+
+p {
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 445px;
+  color: #777;
+  line-height: 32px;
+  background: #ebebeb;
+}
+
+aside {
+  float: right;
+  width: 445px;
+  height: 330px;
+  padding: 20px;
+  margin-left: 20px;
+  color: #777;
+  background: #ebebeb;
+}
+
+footer {
+  clear: both;		
+  padding: 20px;
+  width: 960px;
+  margin-bottom: 20px;
+  color: #777;
+  background: #ebebeb;
+}
