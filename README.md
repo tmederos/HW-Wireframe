@@ -5,7 +5,7 @@
 One of the initial assignments for University of Arizona Coding Bootcamp - building a web design skeleton using HTML/CSS.
 
 ---
-Check out wireframe here: https://tmederos.github.io/Basic-Portfolio/
+Check out wireframe here: https://tmederos.github.io/HW-Wireframe/
 
 ---
 ## Screenshot About Page
