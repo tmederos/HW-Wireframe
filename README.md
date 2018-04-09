@@ -10,7 +10,7 @@ Check out wireframe here: https://tmederos.github.io/Basic-Portfolio/
 ---
 ## Screenshot About Page
 
-![Screenshot](https://github.com/tmederos/Basic-Portfolio/blob/master/assets/images/screen-shot-1.jpg)
+![Screenshot](https://github.com/tmederos/HW-Wireframe/blob/master/Layout.png)
 
 
 ## Author
